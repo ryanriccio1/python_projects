@@ -63,7 +63,7 @@ def get_distance():
 
 
 def send_notification(event, distance=10000):
-    r = requests.post(f"https://maker.ifttt.com/trigger/{event}/with/key/dvRyzpAmr9sxH_cTXMQDJ8",
+    r = requests.post(f"https://maker.ifttt.com/trigger/{event}/with/key/{dontstealmyapikey}",
                       params={"value1": f"{distance}"})
     time.sleep(1)
     while distance > MAX_DISTANCE:
