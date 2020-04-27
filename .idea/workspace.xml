@@ -25,15 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2708edbd-bdc1-4fde-914d-a0cf1543e678" name="Default Changelist" comment="PreLab 7">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/rshar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prog-fund-i-repo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/garage_door/garagedoor.py" beforeDir="false" />
+    <list default="true" id="2708edbd-bdc1-4fde-914d-a0cf1543e678" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587423882463</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Garage Door and Movie Script Bot">
+      <created>1588021731702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588021731702</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +181,8 @@
     <MESSAGE value="Lab 7" />
     <MESSAGE value="Lab 7 (Updated table printer)" />
     <MESSAGE value="PreLab 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="PreLab 7" />
+    <MESSAGE value="Garage Door and Movie Script Bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Garage Door and Movie Script Bot" />
   </component>
   <component name="WindowStateProjectService">
     <state x="587" y="219" key="#Inspections" timestamp="1586618159540">
@@ -208,10 +209,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="691" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587417994958" />
-    <state x="572" y="135" key="CommitChangelistDialog2" timestamp="1588021044959">
+    <state x="572" y="135" key="CommitChangelistDialog2" timestamp="1588021716067">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="572" y="135" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1588021044959" />
+    <state x="572" y="135" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1588021716067" />
     <state x="93" y="93" width="1733" height="893" key="DiffContextDialog" timestamp="1587954139121">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -220,22 +221,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="742" y="283" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1587925806488" />
-    <state width="1900" height="300" key="GridCell.Tab.0.bottom" timestamp="1588019307273">
+    <state width="1900" height="300" key="GridCell.Tab.0.bottom" timestamp="1588021772177">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588019307273" />
-    <state width="1900" height="300" key="GridCell.Tab.0.center" timestamp="1588019307273">
+    <state width="1900" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588021772177" />
+    <state width="1900" height="300" key="GridCell.Tab.0.center" timestamp="1588021772177">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="300" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588019307273" />
-    <state width="1900" height="300" key="GridCell.Tab.0.left" timestamp="1588019307273">
+    <state width="1900" height="300" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588021772177" />
+    <state width="1900" height="300" key="GridCell.Tab.0.left" timestamp="1588021772176">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="300" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588019307273" />
-    <state width="1900" height="300" key="GridCell.Tab.0.right" timestamp="1588019307273">
+    <state width="1900" height="300" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588021772176" />
+    <state width="1900" height="300" key="GridCell.Tab.0.right" timestamp="1588021772177">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1900" height="300" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588019307273" />
+    <state width="1900" height="300" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588021772177" />
     <state width="1900" height="364" key="GridCell.Tab.1.bottom" timestamp="1587959028517">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -264,10 +265,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="791" y="410" key="VCS.EditChangelistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587418178044" />
-    <state x="553" y="273" key="Vcs.Push.Dialog.v2" timestamp="1587955566789">
+    <state x="553" y="273" key="Vcs.Push.Dialog.v2" timestamp="1588021746383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="553" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1587955566789" />
+    <state x="553" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1588021746383" />
     <state width="966" height="546" key="XDebugger.FullValuePopup" timestamp="1587420228839">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

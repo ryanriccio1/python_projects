@@ -1,4 +1,4 @@
-import keyboard
+import keyboard_mod
 import sys
 import os
 import split_lines
@@ -48,7 +48,7 @@ def main():
         loading_animation.load_ellipsis("CHANGE WINDOW! Writing keystroke in 5 seconds", 5, wait_time=1)
         with open(filename, "r") as file:
             for line in file:
-                keyboard.write(line, delay=time_input)
+                keyboard_mod.write(line, delay=time_input)
 
     except KeyboardInterrupt:
         print("\nKeyboardInterrupt triggered. Exiting...")
