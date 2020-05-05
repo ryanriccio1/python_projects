@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['write_lines.py'],
-             pathex=['C:\\Users\\rshar\\Desktop\\Projects\\Code\\python\\movie_script_bot'],
+             pathex=['/Users/ryanriccio/Desktop/python-projects/movie_script_bot'],
              binaries=[],
              datas=[],
              hiddenimports=[],

@@ -1,4 +1,4 @@
-import keyboard_mod
+import keyboard
 import sys
 import os
 import split_lines
@@ -43,12 +43,13 @@ def main():
                     print("ERROR: You may not enter a value less than 0.02 seconds. Try again.")
                 else:
                     valid = True
+                    float(time_input)
             except ValueError:
                 print("ERROR: That is not a valid value. Try again.")
         loading_animation.load_ellipsis("CHANGE WINDOW! Writing keystroke in 5 seconds", 5, wait_time=1)
         with open(filename, "r") as file:
             for line in file:
-                keyboard_mod.write(line, delay=time_input)
+                keyboard.write(line, delay=time_input)
 
     except KeyboardInterrupt:
         print("\nKeyboardInterrupt triggered. Exiting...")
